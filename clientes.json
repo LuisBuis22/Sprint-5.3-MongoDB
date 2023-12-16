@@ -1,0 +1,18 @@
+{
+  "nombre": "string",
+  "direccion": "string",
+  "telefono": "number",
+  "email": "string",
+  "fecha_registro": "date",
+  "recomendador": {
+    "nombre": "string",
+    "fecha_recomendacion": "date"
+  },
+  "ventas": [
+    {
+      "id_gafas": "number",
+      "nombre_empleado": "string",
+      "fecha_hora_venta": "date"
+    }
+  ]
+}

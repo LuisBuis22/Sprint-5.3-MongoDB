@@ -1,0 +1,9 @@
+{
+  "marca": "string",
+  "graduacion": "number",
+  "tipo_montura": "string",
+  "color_montura": "string",
+  "color_cristal": "string",
+  "precio": "number",
+  "id_proveedor": "number"
+}

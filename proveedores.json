@@ -1,0 +1,15 @@
+{
+  "nombre": "string",
+  "direccion": {
+    "calle": "string",
+    "numero": "number",
+    "piso": "string",
+    "puerta": "string",
+    "ciudad": "string",
+    "cp": "string",
+    "pais": "string"
+  },
+  "telefono": "number",
+  "fax": "number",
+  "nif": "string"
+}
